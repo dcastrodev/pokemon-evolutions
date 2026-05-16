@@ -6,7 +6,7 @@
 ## 📍 Live Demo
 Veja o projeto no seu navegador:
 
-<a href="https://dcastrodev.github.io/pokemon-evolutions/"><strong>🔗Click to View</strong></a>
+<a href="https://dcastrodev.github.io/pokemon-evolutions/"><strong>🔗 Click to View</strong></a>
 
 ---
 ### Layout Preview
